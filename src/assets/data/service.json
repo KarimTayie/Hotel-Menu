@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "menuTitle": "food order",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVwfw306Yu1IVrWlWigxedORs4bxaXl3SR_Q6gYFh6VasHZENN"
+    },
+    {
+      "menuTitle": "leisure time",
+      "imageURL": "https://www.sportravelling.com/system/activity_images/images/000/002/614/small/big_Banana_800x400.jpg?1501770268"
+    },
+    {
+      "menuTitle": "entertainment",
+      "imageURL": "https://newswhammy.com/wp-content/uploads/2018/08/180322103701-demi-lovato-super-tease-360x180.jpg"
+    },
+    {
+      "menuTitle": "order taxi",
+      "imageURL": "https://img1.wsimg.com/isteam/ip/6bfbb246-9655-4623-aa8a-3d2ad4ee6954/b3673da1-6ed4-4e2b-adbe-211f71b32268.jpeg/:/rs=w:360,h:180,cg:true,m/cr=w:360,h:180"
+    },
+    {
+      "menuTitle": "wakeup call",
+      "imageURL": "https://socialmarketingdoctors.nl/assets/img/comp/socialmarketingdoctors.nl/klantreis-of-klachtreis-5-tips-over-hoe-je-omgaat-met-klachten-en-negatieve-reacties-201559-w360.png"
+    },
+    {
+      "menuTitle": "rent car",
+      "imageURL": "http://transport-ouhra.com/wp-content/uploads/2018/04/Hyundai-Accent-min-1-360x180.jpg"
+    }
+  ]
+}

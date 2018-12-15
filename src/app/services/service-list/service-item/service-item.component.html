@@ -1,0 +1,14 @@
+<div class="col-md-4 col-sm-6">
+  <div class="service">
+    <img
+      [src]="service.imageURL"
+      alt="{{ service.menuTitle }}"
+      class="img-responsive"
+      style="max-height: 180px; width: 100%">
+      <div class="service-title">
+          <h4
+            class="h4"
+            [innerHTML]="service.menuTitle | tBold"></h4>
+      </div>
+  </div>
+</div>
